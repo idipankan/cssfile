@@ -1,0 +1,26 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 20px; /* Margin bottom by footer height */
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 35px; /* Set the fixed height of the footer here */
+    background-color: #00233d;
+    text-align: left;
+}
+.row {
+    
+    margin-right: auto;
+    margin-left: auto;
+}
+#specialrow {
+    margin-top: 20px;
+}
+#specialrow2 {
+    margin-top: 40px;
+}
